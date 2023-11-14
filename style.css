@@ -28,11 +28,13 @@ span{
     background-color: antiquewhite;
     float: left;
     margin: 2px;
-    font-size: 75px;
+    font-size: 100px;
     color: brown;
-    left: 30%;
     border-radius: 20px;
 }
-
+.square:hover{
+   background-color: aqua;
+   cursor: pointer;
+}
   
   
